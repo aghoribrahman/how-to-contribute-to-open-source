@@ -52,7 +52,7 @@
 - [Issuehub.io](http://issuehub.io/) - लेबल और भाषा द्वारा GitHub मुद्दों को खोजने के लिए एक उपकरण।
 - [Code Triage](https://www.codetriage.com/) - लोकप्रिय रिपॉजिटरी और भाषा द्वारा फ़िल्टर किए गए मुद्दों को खोजने के लिए उपकरण।
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो जो नए योगदानकर्ताओं के लिए अच्छे बग्स के साथ प्रोजेक्ट एकत्र करता है, और उनका वर्णन करने के लिए लेबल लागू करता है।
-- [Open Source Guides](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए संसाधनों का संग्रह, जो ओपन सोर्स प्रोजेक्ट को चलाना और उसमें योगदान देना सीखना चाहते हैं।
+- [ओपन सोर्स गाइड](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए संसाधनों का संग्रह, जो ओपन सोर्स प्रोजेक्ट को चलाना और उसमें योगदान देना सीखना चाहते हैं।
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub के Do's और Don'ts।
 - [GitHub Guides](https://docs.github.com/en) - GitHub का प्रभावी रूप से उपयोग करने के बारे में बुनियादी गाइड।
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - एक सिमुलेशन परियोजना के लिए कोड का योगदान करके GitHub वर्कफ़्लो जानें।
